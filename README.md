@@ -13,3 +13,8 @@ In this commit, I added a simple landing page to the webserver. The landing page
 ![Commit 3 screen capture](/assets/images/commit3.jpeg)
 Followed the link given on how to route for unknown pages. Pretty standard procedure for a 404 page. The book is easy to follow. I'm starting to get a feel of the syntax and feel of rust. The code is simple and easy to understand, making it easy to follow the flow of the code. there are also some refactoring happening.
 
+### Refleksi Commit 4
+There is little to reflect here. Just copy pasting another sample of code. Did the thing where I open 2 browser windows and indeed it was slow. It's pretty obvious it has something to do with single threading.
+
+### Refleksi Commit 5
+
